@@ -1,5 +1,4 @@
 ﻿Git is a read  version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks changes.
-i'm a loser.
+Git tracks changes
